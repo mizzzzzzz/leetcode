@@ -1,0 +1,2 @@
+Runtime: 8 ms, faster than 61.14% of C++ online submissions for Two Sum.
+Memory Usage: 9 MB, less than 52.65% of C++ online submissions for Two Sum.
