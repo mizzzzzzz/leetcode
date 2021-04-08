@@ -1,0 +1,2 @@
+Runtime: 32 ms, faster than 69.54% of C++ online submissions for Longest Palindromic Substring.
+Memory Usage: 8.3 MB, less than 63.86% of C++ online submissions for Longest Palindromic Substring.
