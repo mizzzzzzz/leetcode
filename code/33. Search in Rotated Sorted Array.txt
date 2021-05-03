@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 70.97% of C++ online submissions for Search in Rotated Sorted Array.
+Memory Usage: 11.2 MB, less than 19.83% of C++ online submissions for Search in Rotated Sorted Array.
