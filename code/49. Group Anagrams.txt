@@ -1,0 +1,2 @@
+Runtime: 24 ms, faster than 96.87% of C++ online submissions for Group Anagrams.
+Memory Usage: 18.1 MB, less than 94.08% of C++ online submissions for Group Anagrams.
