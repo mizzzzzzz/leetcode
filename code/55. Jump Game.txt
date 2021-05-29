@@ -1,2 +1,2 @@
-Runtime: 4 ms, faster than 91.42% of C++ online submissions for Maximum Subarray.
-Memory Usage: 13.1 MB, less than 89.15% of C++ online submissions for Maximum Subarray.
+Runtime: 72 ms, faster than 20.14% of C++ online submissions for Jump Game.
+Memory Usage: 48.4 MB, less than 5.67% of C++ online submissions for Jump Game.
