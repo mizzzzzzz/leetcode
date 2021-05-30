@@ -1,0 +1,2 @@
+Runtime: 16 ms, faster than 86.34% of C++ online submissions for Merge Intervals.
+Memory Usage: 14.2 MB, less than 81.12% of C++ online submissions for Merge Intervals.

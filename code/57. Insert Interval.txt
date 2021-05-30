@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 99.88% of C++ online submissions for Insert Interval.
+Memory Usage: 17.1 MB, less than 70.13% of C++ online submissions for Insert Interval.
