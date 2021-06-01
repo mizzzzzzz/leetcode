@@ -1,0 +1,2 @@
+Runtime: 56 ms, faster than 95.06% of C++ online submissions for 01 Matrix.
+Memory Usage: 26.2 MB, less than 89.78% of C++ online submissions for 01 Matrix.

@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 100.00% of C++ online submissions for Climbing Stairs.
+Memory Usage: 6.3 MB, less than 19.08% of C++ online submissions for Climbing Stairs.

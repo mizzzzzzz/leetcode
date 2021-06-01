@@ -1,0 +1,2 @@
+Runtime: 12 ms, faster than 81.87% of C++ online submissions for Set Matrix Zeroes.
+Memory Usage: 13.2 MB, less than 76.29% of C++ online submissions for Set Matrix Zeroes.
