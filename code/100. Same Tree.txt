@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 44.45% of C++ online submissions for Same Tree.
+Memory Usage: 10 MB, less than 37.07% of C++ online submissions for Same Tree.
