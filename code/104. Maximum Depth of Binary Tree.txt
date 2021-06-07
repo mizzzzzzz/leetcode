@@ -1,0 +1,2 @@
+Runtime: 8 ms, faster than 67.71% of C++ online submissions for Maximum Depth of Binary Tree.
+Memory Usage: 18.9 MB, less than 51.52% of C++ online submissions for Maximum Depth of Binary Tree.
