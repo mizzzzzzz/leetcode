@@ -1,0 +1,2 @@
+Runtime: 440 ms, faster than 23.12% of C++ online submissions for Longest Consecutive Sequence.
+Memory Usage: 31.6 MB, less than 19.22% of C++ online submissions for Longest Consecutive Sequence.

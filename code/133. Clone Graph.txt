@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 95.49% of C++ online submissions for Clone Graph.
+Memory Usage: 8.6 MB, less than 85.60% of C++ online submissions for Clone Graph.
