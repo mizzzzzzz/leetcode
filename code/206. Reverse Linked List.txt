@@ -1,0 +1,2 @@
+Runtime: 8 ms, faster than 64.91% of C++ online submissions for Reverse Linked List.
+Memory Usage: 8.3 MB, less than 41.49% of C++ online submissions for Reverse

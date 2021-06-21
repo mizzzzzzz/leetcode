@@ -1,0 +1,2 @@
+Runtime: 24 ms, faster than 20.27% of C++ online submissions for Number of Islands.
+Memory Usage: 11.1 MB, less than 10.83% of C++ online submissions for Number of Islands.
