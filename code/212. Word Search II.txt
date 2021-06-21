@@ -1,0 +1,2 @@
+Runtime: 288 ms, faster than 69.59% of C++ online submissions for Word Search II.
+Memory Usage: 9.2 MB, less than 46.50% of C++ online submissions for Word Search II.
