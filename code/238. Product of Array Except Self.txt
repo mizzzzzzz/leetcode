@@ -1,0 +1,5 @@
+Runtime: 16 ms, faster than 96.50% of C++ online submissions for Product of Array Except Self.
+Memory Usage: 23.9 MB, less than 79.50% of C++ online submissions for Product of Array Except Self.
+
+Runtime: 28 ms, faster than 34.04% of C++ online submissions for Product of Array Except Self.
+Memory Usage: 29.3 MB, less than 5.85% of C++ online submissions for Product of Array Except Self.

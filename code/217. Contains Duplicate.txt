@@ -1,0 +1,2 @@
+Runtime: 12 ms, faster than 99.69% of C++ online submissions for Contains Duplicate.
+Memory Usage: 15.5 MB, less than 87.68% of C++ online submissions for Contains Duplicate.

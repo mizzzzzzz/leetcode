@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 99.06% of C++ online submissions for Valid Anagram.
+Memory Usage: 7.3 MB, less than 31.56% of C++ online submissions for Valid

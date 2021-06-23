@@ -1,0 +1,2 @@
+Runtime: 28 ms, faster than 78.73% of C++ online submissions for Lowest Common Ancestor of a Binary Search Tree.
+Memory Usage: 23.3 MB, less than 46.87% of C++ online submissions for Lowest Common Ancestor of a Binary Search Tree.

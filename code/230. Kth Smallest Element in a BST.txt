@@ -1,0 +1,2 @@
+Runtime: 12 ms, faster than 96.42% of C++ online submissions for Kth Smallest Element in a BST.
+Memory Usage: 23.9 MB, less than 98.36% of C++ online submissions for Kth Smallest Element in a BST.
