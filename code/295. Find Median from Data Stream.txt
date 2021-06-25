@@ -1,0 +1,2 @@
+Runtime: 88 ms, faster than 97.96% of C++ online submissions for Find Median from Data Stream.
+Memory Usage: 46.7 MB, less than 83.82% of C++ online submissions for Find Median from Data Stream.
