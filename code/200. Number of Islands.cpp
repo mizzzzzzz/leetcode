@@ -16,10 +16,40 @@ using std::unordered_map;
 using std::unordered_set;
 using std::vector;
 
+// https://leetcode.com/problems/number-of-islands/
 class Solution
 {
 public:
     int numIslands(vector<vector<char>>& grid)
+    {
+        using pii = pair<int, int>;
+        int numIslands = 0;
+        vector<pii> steps{ {-1, 0}, {1, 0}, {0, -1}, {0, 1} };
+        queue<pii> q;
+
+        for (int i = 0; i < grid.size(); ++i) {
+            for (int j = 0; j < grid[i].size(); ++j) {
+                if (grid[i][j] == '0') {
+                    continue;
+                }
+                q.emplace(i, j);
+                while (!q.empty()) {
+                    pii id = q.front();
+                    q.pop();
+                    grid[id.first][id.second] = '0';
+                    for (pii& s : steps) {
+                        int nexti = id.first + s.first;
+                        int nextj = id.second + s.second;
+                        if (nexti >= 0 && nexti < grid.size() && nextj >= 0 && nextj < grid[0].size() && grid[nexti][nextj] == '1') {
+                            q.emplace(i, j);
+                        }
+                    }
+                }
+            }
+        }
+    }
+private:
+    int firstSolution(vector<vector<char>>& grid)
     {
         using pii = pair<int, int>;
         int numIslands = 0;

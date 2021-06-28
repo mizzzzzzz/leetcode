@@ -15,6 +15,7 @@ using std::pair;
 using std::stack;
 using std::vector;
 
+// https://leetcode.com/problems/missing-number/
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {

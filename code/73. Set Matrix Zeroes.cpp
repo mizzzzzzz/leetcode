@@ -3,10 +3,20 @@
 #include <vector>
 
 using std::vector;
+
+// https://leetcode.com/problems/set-matrix-zeroes/
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix)
     {
+        /*
+            [
+            [1,2,3,4],
+            [5,0,7,8],
+            [0,10,11,12],
+            [13,14,15,0]
+            ]
+        */
         bool firstRow = false;
         bool firstCol = false;
         for (size_t i = 0; i < matrix.size(); ++i) {

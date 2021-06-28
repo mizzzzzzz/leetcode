@@ -9,6 +9,8 @@ using std::string;
 using std::unordered_map;
 using std::unordered_set;
 using std::vector;
+
+// https://leetcode.com/problems/longest-consecutive-sequence/
 class Solution
 {
 public:

@@ -7,6 +7,7 @@ using std::stack;
 using std::string;
 using std::unordered_map;
 
+// https://leetcode.com/problems/valid-parentheses/
 class Solution {
 public:
     bool isValid(string s)

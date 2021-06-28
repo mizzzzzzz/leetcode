@@ -14,6 +14,7 @@ using std::unordered_map;
 using std::unordered_set;
 using std::vector;
 
+// https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 struct ListNode
 {
     int val;
@@ -78,20 +79,22 @@ struct ListNode
 class Solution
 {
 public:
-    int maxProduct(vector<int>& nums)
+    int findMin(vector<int>& nums)
     {
-        int ans = nums[0];
-        int pos = nums[0];
-        int neg = nums[0];
-        for (size_t i = 1; i < nums.size(); ++i) {
-            int p = pos;
-            pos = std::max(nums[i], std::max(pos * nums[i], neg * nums[i]));
-            neg = std::min(nums[i], std::min(p * nums[i], neg * nums[i]));
-            if (pos > ans) {
-                ans = pos;
+        int start = 0;
+        int end = nums.size() - 1;
+        while (end > start) {
+            if (nums[start] < nums[end]) {
+                return nums[start];
+            }
+            int mid = start + (end - start) / 2;
+            if (nums[mid] < nums[start]) {
+                end = mid;
+            } else {
+                start = mid + 1;
             }
         }
-        return ans;
+        return nums[start];
     }
 };
 

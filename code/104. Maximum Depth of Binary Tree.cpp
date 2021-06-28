@@ -15,7 +15,8 @@ using std::pair;
 using std::stack;
 using std::vector;
 
- struct TreeNode {
+// https://leetcode.com/problems/maximum-depth-of-binary-tree/
+struct TreeNode {
      int val;
      TreeNode *left;
      TreeNode *right;

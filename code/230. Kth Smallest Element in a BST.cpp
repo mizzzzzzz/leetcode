@@ -15,6 +15,7 @@ using std::pair;
 using std::stack;
 using std::vector;
 
+// https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 struct TreeNode
 {
     int val;
@@ -89,7 +90,7 @@ int main()
         TreeNode* input(TreeNode::generate(vector<int>{5, 3, 6, 2, 4, -1, -1, 1}));
         int k = 3;
         int ans = 3;
-        assert(ans == s.levelOrder(input, k));
+        assert(ans == s.kthSmallest(input, k));
     }
     return 0;
 }
