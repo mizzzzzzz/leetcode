@@ -1,0 +1,2 @@
+Runtime: 12 ms, faster than 53.32% of C++ online submissions for Remove Duplicates from Sorted Array.
+Memory Usage: 18.5 MB, less than 5.51% of C++ online submissions for Remove Duplicates from Sorted Array.

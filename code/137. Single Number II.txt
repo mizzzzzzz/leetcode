@@ -1,0 +1,2 @@
+Runtime: 12 ms, faster than 33.79% of C++ online submissions for Single Number II.
+Memory Usage: 9.4 MB, less than 99.11% of C++ online submissions for Single Number II.
