@@ -1,0 +1,2 @@
+Runtime: 24 ms, faster than 35.18% of C++ online submissions for Candy.
+Memory Usage: 19 MB, less than 9.38% of C++ online submissions for Candy.

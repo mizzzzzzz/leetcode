@@ -1,0 +1,2 @@
+Runtime: 8 ms, faster than 39.70% of C++ online submissions for Move Zeroes.
+Memory Usage: 9.1 MB, less than 10.77% of C++ online submissions for Move Zeroes.

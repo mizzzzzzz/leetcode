@@ -1,0 +1,2 @@
+Runtime: 8 ms, faster than 53.57% of C++ online submissions for Trapping Rain Water.
+Memory Usage: 14.5 MB, less than 9.40% of C++ online submissions for Trapping Rain Water.
