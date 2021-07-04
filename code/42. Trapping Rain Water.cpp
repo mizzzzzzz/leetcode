@@ -22,10 +22,16 @@ class Solution
 public:
     int trap(vector<int>& height)
     {
+        return largestRectang(height);
+    }
+
+private:
+    int largestRectang(vector<int>& height)
+    {
         stack<int> s;
         int ans = 0;
         int i = 0;
-        while(i < height.size()) {
+        while (i < height.size()) {
             if (s.empty() || height[s.top()] > height[i]) {
                 s.emplace(i);
                 ++i;
@@ -42,7 +48,7 @@ public:
         return ans;
     }
 
-private:
+
     int betterSol(vector<int>& height)
     {
         int l = 0, r = height.size() - 1, level = 0, water = 0;

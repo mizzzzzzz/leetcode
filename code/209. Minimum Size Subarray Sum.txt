@@ -1,0 +1,2 @@
+Runtime: 8 ms, faster than 73.66% of C++ online submissions for Minimum Size Subarray Sum.
+Memory Usage: 10.5 MB, less than 92.39% of C++ online submissions for Minimum Size Subarray Sum.
