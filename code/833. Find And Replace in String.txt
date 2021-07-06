@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 87.19% of C++ online submissions for Find And Replace in String.
+Memory Usage: 10.6 MB, less than 69.48% of C++ online submissions for Find And Replace in String.

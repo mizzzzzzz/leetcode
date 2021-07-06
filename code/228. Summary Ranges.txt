@@ -1,0 +1,2 @@
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Summary Ranges.
+Memory Usage: 6.8 MB, less than 92.12% of C++ online submissions for Summary Ranges.
