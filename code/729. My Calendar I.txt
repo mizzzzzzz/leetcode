@@ -1,0 +1,2 @@
+Runtime 80 ms, faster than 89.23% of C++ online submissions for My Calendar I.
+Memory Usage 38.9 MB, less than 23.28% of C++ online submissions for My Calendar I.
