@@ -1,0 +1,2 @@
+Runtime: 4 ms, faster than 53.54% of C++ online submissions for Merge Sorted Array.
+Memory Usage: 9.1 MB, less than 69.55% of C++ online submissions for Merge Sorted Array.
